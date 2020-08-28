@@ -8,6 +8,8 @@
 
 Interseller helps recruiters through the sourcing process of recruiting. Sourcing is one of the most important aspects of recruiting but receives the least amount of attention (and therefore the most hate). Interseller's goal is to reduce the amount of work it takes to source candidates by automating non-human processes (e.g. data entry, follow up reminders, etc.) so recruiters can focus more on candidate activities (e.g. matching and interviewing).
 
+https://www.interseller.io
+
 ## Get In Touch
 
 * Twitter: https://twitter.com/stevenlu
